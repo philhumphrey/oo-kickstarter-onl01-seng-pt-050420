@@ -13,7 +13,7 @@ def back_project(project)
   # .all.select  {|x| x.project == self}
 
   # def more_advanced_back_project
-  project.back(self) unless project.backers.include?(self)
+  # project.back(self) unless project.backers.include?(self)
   end
 end
   
