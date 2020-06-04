@@ -14,7 +14,7 @@ def back_project(project)
 
   
   # def more_advanced_back_project
-  project.back(self) unless project.backers.include?(self)
+
   end
 end
   
